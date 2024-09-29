@@ -1,0 +1,1 @@
+class Helicopter(val name: String, val weight: Int, val speed: Int, val maxAltitude: Int)
